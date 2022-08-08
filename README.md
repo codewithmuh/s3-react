@@ -20,7 +20,8 @@ npx create-react-app s3-upload-react
 
 
 ## Step 5. Upload File Via Native SDK
-If we use other aws services in our project then we have a special npm package for that named aws-sdk. We can get it by
+If we use other aws services in our project then we have a special npm package for that named aws-sdk. 
+
 
 
 
